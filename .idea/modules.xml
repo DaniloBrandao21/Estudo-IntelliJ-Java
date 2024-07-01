@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CadastroeBusca/CadastroeBusca.iml" filepath="$PROJECT_DIR$/CadastroeBusca/CadastroeBusca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ConferindoNum/ConferindoNum.iml" filepath="$PROJECT_DIR$/ConferindoNum/ConferindoNum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CriandoClasses/CriandoClasses.iml" filepath="$PROJECT_DIR$/CriandoClasses/CriandoClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Estudo-IntelliJ-Java.iml" filepath="$PROJECT_DIR$/.idea/Estudo-IntelliJ-Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ImprimirCalendario/ImprimirCalendario.iml" filepath="$PROJECT_DIR$/ImprimirCalendario/ImprimirCalendario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MeuPrimeiroProjeto/MeuPrimeiroProjeto.iml" filepath="$PROJECT_DIR$/MeuPrimeiroProjeto/MeuPrimeiroProjeto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ModelosDeDados/ModelosDeDados.iml" filepath="$PROJECT_DIR$/ModelosDeDados/ModelosDeDados.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NumerosPrimos/NumerosPrimos.iml" filepath="$PROJECT_DIR$/NumerosPrimos/NumerosPrimos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Trunfo/Trunfo.iml" filepath="$PROJECT_DIR$/Trunfo/Trunfo.iml" />
+    </modules>
+  </component>
+</project>
