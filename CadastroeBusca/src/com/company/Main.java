@@ -13,7 +13,7 @@ public class Main {
         adicionarContato( new Contato("Lizandra",23,"3333333333333","333333333"));
         adicionarContato( new Contato("Murilo",13,"44444444444","444444444"));
         adicionarContato( new Contato("Gustavo",15,"55555555555","555555555"));
-        adicionarContato( new Contato("Danilo",21,"66666666666","6666666666"));
+        adicionarContato( new Contato("Danilo-teste-git",21,"66666666666","6666666666"));
 
         System.out.println("Imprimindo lista \n");
         imprimirContato();
